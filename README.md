@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is my first project done following the odin project tutorial 
+A simple recipe site with Italian dishes written in HTML
